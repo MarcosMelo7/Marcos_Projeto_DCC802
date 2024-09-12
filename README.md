@@ -18,7 +18,7 @@ pip para gerenciar pacotes Python
 ## Como Usar
 ### Bibliotecas Python Necessárias
 Certifique-se de instalar as bibliotecas Python necessárias executando o seguinte comando:
-pip install psutil pywin32 wmi requests
+`pip install psutil pywin32 wmi requests`
 
 Abra o arquivo: script.py no seu editor de código como o VSCode por exemplo e rode-o
 
