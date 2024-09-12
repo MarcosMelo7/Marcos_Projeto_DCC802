@@ -1,4 +1,4 @@
-# Marcos_Projeto_DCC802
+# Projeto 12 (Marcos Melo)
 Repositório destinado a matéria: Projeto e Implementação de Sistemas - DCC802 
 
 Este projeto é um utilitário de verificação e gerenciamento de sistema, basicamente um script desenvolvido em Python, que combina funcionalidades de verificação de malware, verificação de atualizações do Windows, visualização de informações do sistema e instalação de softwares populares (Google Chrome e Visual Studio Code) em uma interface gráfica amigável.
