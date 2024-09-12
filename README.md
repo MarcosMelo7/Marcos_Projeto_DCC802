@@ -63,5 +63,7 @@ Abra o arquivo: script.py no seu editor de código como o VSCode por exemplo e r
 ## Fluxo Principal
 - if __name__ == "__main__": create_gui()
 - Ponto de entrada do script, inicializando a interface gráfica ao executar o script.
+
+###
   
 Essa documentação cobre todos os detalhes necessários para entender, instalar, usar e contribuir para o projeto!
